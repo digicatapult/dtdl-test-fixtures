@@ -22,5 +22,10 @@
         "description": "relationshipDescriptionNameEdit"
       }
     ]
+  },
+  {
+    "@context": ["dtmi:dtdl:context;3"],
+    "@id": "dtmi:com:example;1",
+    "@type": "Interface"
   }
 ]
