@@ -19,7 +19,7 @@
         "target": "dtmi:com:example;1",
         "comment": "relationshipCommentEdit",
         "displayName": "relationshipDisplayNameEdit",
-        "description": "relationshipDescriptionNameEdit"
+        "description": "relationshipDescriptionEdit"
       }
     ]
   },
