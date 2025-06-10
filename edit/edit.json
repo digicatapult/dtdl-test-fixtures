@@ -1,0 +1,31 @@
+[
+  {
+    "@context": ["dtmi:dtdl:context;3"],
+    "@id": "dtmi:com:edit:contents;1",
+    "@type": "Interface",
+    "displayName": "displayNameEdit",
+    "description": "descriptionEdit",
+    "comment": "commentEdit",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "propertyNameEdit",
+        "comment": "propertyCommentEdit",
+        "schema": "float"
+      },
+      {
+        "@type": "Relationship",
+        "name": "relationshipName",
+        "target": "dtmi:com:example;1",
+        "comment": "relationshipCommentEdit",
+        "displayName": "relationshipDisplayNameEdit",
+        "description": "relationshipDescriptionEdit"
+      }
+    ]
+  },
+  {
+    "@context": ["dtmi:dtdl:context;3"],
+    "@id": "dtmi:com:example;1",
+    "@type": "Interface"
+  }
+]
