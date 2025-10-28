@@ -20,6 +20,14 @@
         "comment": "relationshipCommentEdit",
         "displayName": "relationshipDisplayNameEdit",
         "description": "relationshipDescriptionEdit"
+      },
+      {
+        "@type": "Telemetry",
+        "name": "telemetryName",
+        "schema": "double",
+        "comment": "telemetryCommentEdit",
+        "description": "telemetryDescriptionEdit",
+        "displayName": "telemetryDisplayNameEdit"
       }
     ]
   },
