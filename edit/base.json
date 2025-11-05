@@ -7,7 +7,7 @@
       {
         "@type": "Property",
         "name": "baseProperty",
-        "schema": "float"
+        "schema": "short"
       },
       {
         "@type": "Relationship",
