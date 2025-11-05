@@ -28,7 +28,7 @@
       {
         "@type": "Telemetry",
         "name": "telemetryName",
-        "schema": "double",
+        "schema": "float",
         "comment": "telemetryCommentEdit",
         "description": "telemetryDescriptionEdit",
         "displayName": "telemetryDisplayNameEdit"
