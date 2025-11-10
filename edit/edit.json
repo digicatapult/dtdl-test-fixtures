@@ -1,17 +1,21 @@
 [
   {
-    "@context": ["dtmi:dtdl:context;3"],
+    "@context": ["dtmi:dtdl:context;4"],
     "@id": "dtmi:com:edit:contents;1",
     "@type": "Interface",
     "displayName": "displayNameEdit",
     "description": "descriptionEdit",
     "comment": "commentEdit",
+    "extends": ["dtmi:com:base;1"],
     "contents": [
       {
         "@type": "Property",
-        "name": "propertyNameEdit",
+        "name": "propertyName",
+        "displayName": "propertyDisplayNameEdit",
+        "description": "propertyDescriptionEdit",
         "comment": "propertyCommentEdit",
-        "schema": "float"
+        "schema": "float",
+        "writable": false
       },
       {
         "@type": "Relationship",
@@ -24,7 +28,7 @@
       {
         "@type": "Telemetry",
         "name": "telemetryName",
-        "schema": "double",
+        "schema": "float",
         "comment": "telemetryCommentEdit",
         "description": "telemetryDescriptionEdit",
         "displayName": "telemetryDisplayNameEdit"
@@ -32,7 +36,7 @@
     ]
   },
   {
-    "@context": ["dtmi:dtdl:context;3"],
+    "@context": ["dtmi:dtdl:context;4"],
     "@id": "dtmi:com:example;1",
     "@type": "Interface"
   }
