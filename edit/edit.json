@@ -36,9 +36,9 @@
       {
         "@type": "Command",
         "name": "turnOn",
-        "displayName": "turnOnCommandDisplayName",
-        "comment": "turnOnCommandComment",
-        "description": "turnOnCommandDescription",
+        "displayName": "turnOnCommandDisplayNameEdit",
+        "comment": "turnOnCommandCommentEdit",
+        "description": "turnOnCommandDescriptionEdit",
         "request": {
           "name": "mode",
           "displayName": "modeRequestDisplayName",
@@ -64,9 +64,9 @@
       {
         "@type": "Command",
         "name": "turnOff",
-        "displayName": "turnOffCommandDisplayName",
-        "comment": "turnOffCommandComment",
-        "description": "turnOffCommandDescription"
+        "displayName": "turnOffCommandDisplayNameEdit",
+        "comment": "turnOffCommandCommentEdit",
+        "description": "turnOffCommandDescriptionEdit"
       }
     ]
   },
