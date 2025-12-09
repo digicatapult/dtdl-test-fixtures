@@ -4,20 +4,9 @@
     "@id": "dtmi:com:base;1",
     "@type": "Interface",
     "contents": [
-      {
-        "@type": "Property",
-        "name": "baseProperty",
-        "schema": "short"
-      },
-      {
-        "@type": "Relationship",
-        "name": "baseRelationship"
-      },
-      {
-        "@type": "Telemetry",
-        "name": "baseTelemetry",
-        "schema": "double"
-      }
+      { "@type": "Property", "name": "baseProperty", "schema": "short" },
+      { "@type": "Relationship", "name": "baseRelationship" },
+      { "@type": "Telemetry", "name": "baseTelemetry", "schema": "double" }
     ]
   }
 ]

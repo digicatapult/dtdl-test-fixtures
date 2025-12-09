@@ -1,0 +1,10 @@
+{
+  "@id": "dtmi:com:NewTestNode;1",
+  "@type": "Interface",
+  "@context": "dtmi:dtdl:context;4",
+  "displayName": "NewTestNode",
+  "description": "A new test node",
+  "comment": "created by syed hasan",
+  "extends": ["dtmi:com:base;1"],
+  "contents": []
+}

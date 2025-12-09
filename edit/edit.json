@@ -48,9 +48,9 @@
             "@type": "Enum",
             "valueSchema": "string",
             "enumValues": [
-              {"name": "cool", "enumValue": "cool"},
-              {"name": "heat", "enumValue": "heat"},
-              {"name": "auto", "enumValue": "auto"}
+              { "name": "cool", "enumValue": "cool" },
+              { "name": "heat", "enumValue": "heat" },
+              { "name": "auto", "enumValue": "auto" }
             ]
           }
         },
