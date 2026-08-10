@@ -10,7 +10,7 @@
   },
   {
     "@context": ["dtmi:dtdl:context;3"],
-    "@id": "dtmi:com:edit;1",
+    "@id": "dtmi:com:editsimple;1",
     "@type": "Interface",
     "displayName": "edit"
   }
