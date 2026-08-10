@@ -72,7 +72,7 @@
   },
   {
     "@context": ["dtmi:dtdl:context;4"],
-    "@id": "dtmi:com:example;1",
+    "@id": "dtmi:com:edit;1",
     "@type": "Interface"
   }
 ]
